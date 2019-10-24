@@ -41,12 +41,12 @@ li:nth-child(even) a:hover{
 }
 
 .section-a {
-    padding: 0.5em 0.5em 1em 0.5em;
+    padding: 0.5em 1.5em 1em 1.5em;
     background-color: rgb(93, 162, 241);
 }
 
 .section-b {
-    padding: 0.5em 0.5em 1em 0.5em;
+    padding: 0.5em 1.5em 1em 1.5em;
     background-color: rgb(117, 226, 123);
 }
 
@@ -69,7 +69,7 @@ li:nth-child(even) a:hover{
 }
 
 .section-c {
-    padding: 0.5em 0.5em 1em 0.5em;
+    padding: 0.5em 1.5em 1em 1.5em;
     background-color: rgb(93, 162, 241);
 }
 
